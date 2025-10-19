@@ -35,3 +35,6 @@ Django,
 PostgreSQL,
 GraphQL,
 
+Database Design
+Users, Properties, Bookings, Reviews, and Payments.
+
