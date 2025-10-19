@@ -38,3 +38,12 @@ GraphQL,
 Database Design
 Users, Properties, Bookings, Reviews, and Payments.
 
+Feature Breakdown
+user management, property management, booking system
+
+API Security
+authentication, authorization, rate limiting
+
+CI/CD Pipeline
+It is a foundational practice of DevOps, designed to bring speed, quality, and reliability to the software development lifecycle by removing manual intervention. The pipeline consists of two main, continuous phases: Continuous Integration (CI) and Continuous Delivery/Deployment
+
